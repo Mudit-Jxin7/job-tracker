@@ -3,6 +3,7 @@
 
 # Ignore credential files
 creds.json
+creds.b64
 
 # Ignore IDE configuration files (e.g., JetBrains IntelliJ IDEA)
 .idea/
