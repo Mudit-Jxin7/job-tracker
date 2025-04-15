@@ -1,0 +1,18 @@
+# Ignore environment variables file
+.env
+
+# Ignore credential files
+creds.json
+
+# Ignore IDE configuration files (e.g., JetBrains IntelliJ IDEA)
+.idea/
+
+# Ignore virtual environment directory
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore any other potential sensitive files
+*.log
+*.sqlite3
